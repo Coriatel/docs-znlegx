@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-kklmbx.yoursingles.online/sitemap.xml
